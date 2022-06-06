@@ -7,7 +7,8 @@ import "firebase/messaging";
 const firebaseConfig = {
   apiKey: "AIzaSyAlwSZrtuLif8Yz32fbkHEDHnp3DHKEL1I",
   authDomain: "aura-d175c.firebaseapp.com",
-  databaseURL: "https://aura-d175c.firebaseio.com",
+  databaseURL:
+    "https://aura-d175c-default-rtdb.asia-southeast1.firebasedatabase.app",
   projectId: "aura-d175c",
   storageBucket: "aura-d175c.appspot.com",
   messagingSenderId: "414686210631",
